@@ -1,0 +1,120 @@
+<library>
+    <edition type="Newspaper">
+        <name>The Washington Post</name>
+        <pageQuantity>52</pageQuantity>
+        <serialNumber>65</serialNumber>
+        <date format="mm-dd-yyyy">25-12-2016</date>
+    </edition>
+    <edition type="Newspaper">
+        <name>The New York Times - Daily Edition for Kindle</name>
+        <pageQuantity>15</pageQuantity>
+        <serialNumber>8</serialNumber>
+        <date format="mm-dd-yyyy">15-01-2017</date>
+    </edition>
+    <edition type="Newspaper">
+        <name>Newspaper Blackout</name>
+        <pageQuantity>35</pageQuantity>
+        <serialNumber>10</serialNumber>
+        <date format="mm-dd-yyyy">08-01-2017</date>
+    </edition>
+    <edition type="Newspaper">
+        <name>The Wall Street Journal</name>
+        <pageQuantity>43</pageQuantity>
+        <serialNumber>12</serialNumber>
+        <date format="mm-dd-yyyy">31-12-2016</date>
+    </edition>
+    <edition type="Newspaper">
+        <name>USA TODAY</name>
+        <pageQuantity>38</pageQuantity>
+        <serialNumber>1</serialNumber>
+        <date format="mm-dd-yyyy">01-01-2017</date>
+    </edition>
+    <edition type="Book">
+        <name>Sense and Sensibility</name>
+        <pageQuantity>256</pageQuantity>
+        <author>Jane Austen</author>
+        <publisher>Wordsworth Editions Limited</publisher>
+        <year>2000</year>
+    </edition>
+    <edition type="Book">
+        <name>The Green Mile</name>
+        <pageQuantity>435</pageQuantity>
+        <author>King Stephen</author>
+        <publisher>Orion Books</publisher>
+        <year>1997</year>
+    </edition>
+    <edition type="Book">
+        <name>Dombey and Son</name>
+        <pageQuantity>816</pageQuantity>
+        <author>Dickens Charles</author>
+        <publisher>Wordsworth Editions Limited</publisher>
+        <year>2002</year>
+    </edition>
+    <edition type="Book">
+        <name>Uncle Tom's Cabin</name>
+        <pageQuantity>438</pageQuantity>
+        <author>Harriet Beecher Stowe</author>
+        <publisher>Wordsworth Editions Limited</publisher>
+        <year>2002</year>
+    </edition>
+    <edition type="Encyclopedia">
+        <name>The New Children's Encyclopedia</name>
+        <pageQuantity>285</pageQuantity>
+        <tomNumber>8</tomNumber>
+        <year>2013</year>
+    </edition>
+    <edition type="Encyclopedia">
+        <name>Knowledge Encyclopedia</name>
+        <pageQuantity>356</pageQuantity>
+        <tomNumber>2</tomNumber>
+        <year>2013</year>
+    </edition>
+    <edition type="Encyclopedia">
+        <name>How Things Work Encyclopedia</name>
+        <pageQuantity>465</pageQuantity>
+        <tomNumber>5</tomNumber>
+        <year>2009</year>
+    </edition>
+    <edition type="Encyclopedia">
+        <name>National Geographic Animal Encyclopedia</name>
+        <pageQuantity>854</pageQuantity>
+        <tomNumber>3</tomNumber>
+        <year>2012</year>
+    </edition>
+    <edition type="Encyclopedia">
+        <name>Encyclopedia of Science</name>
+        <pageQuantity>321</pageQuantity>
+        <tomNumber>1</tomNumber>
+        <year>2006</year>
+    </edition>
+    <edition type="Magazine">
+        <name>Real Simple</name>
+        <pageQuantity>35</pageQuantity>
+        <serialNumber>8</serialNumber>
+        <category>beauty</category>
+    </edition>
+    <edition type="Magazine">
+        <name>National Geographic</name>
+        <pageQuantity>95</pageQuantity>
+        <serialNumber>5</serialNumber>
+        <category>science</category>
+    </edition>
+    <edition type="Magazine">
+        <name>Popular Science</name>
+        <pageQuantity>86</pageQuantity>
+        <serialNumber>17</serialNumber>
+        <category>science</category>
+    </edition>
+    <edition type="Magazine">
+        <name>HGTV Magazine</name>
+        <pageQuantity>48</pageQuantity>
+        <serialNumber>13</serialNumber>
+        <category>home</category>
+    </edition>
+    <edition type="Magazine">
+        <name>Food Network Magazine</name>
+        <pageQuantity>85</pageQuantity>
+        <serialNumber>2</serialNumber>
+        <category>food</category>
+    </edition>
+</library>
